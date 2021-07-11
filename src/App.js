@@ -52,13 +52,13 @@ function App() {
     () => [
       {
         Header: 'Rank',
-        accessor: "",
+        accessor: '',
         Cell: (row) => {
           return <div>{parseInt(row.row.id) + 1}</div>;
         },
       },
       {
-        Header: 'Visits',
+        Header: 'Name',
         accessor: d => (
           <div className="wrapper">
             {d.user.first_name} {d.user.last_name}
@@ -81,14 +81,21 @@ function App() {
     []
   )
 
-  const { data, error } = useEnrollments('3ccbaf9d-867d-4a3c-bb75-9c9d815d6472')
-    if (error) return <h1>Something went wrong!</h1>
-    if (!data) return <Loader />
+  const url = new URL(window.location.href)
+  const searchParams = new URLSearchParams(url.search);
+  const env = searchParams.get('env')
+  const campaign_id = searchParams.get('campaign_id')
 
-    return (
-      <Styles>
-        <Table columns={columns} data={data} />
-      </Styles>
-    )
+  const { data, error } = useEnrollments(env, campaign_id)
+
+  if (env === null || campaign_id === null) return <h1>Something went wrong!</h1>
+  if (error) return <h1>Something went wrong!</h1>
+  if (!data) return <Loader />
+
+  return (
+    <Styles>
+      <Table columns={columns} data={data} />
+    </Styles>
+  )
 }
 export default App
