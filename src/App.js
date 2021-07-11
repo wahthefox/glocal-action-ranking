@@ -19,7 +19,7 @@ const Styles = styled.div`
 
     thead tr {
       background-color: #A7B459;
-      color: #ffffff;
+      color: #FFFFFF;
       text-align: left;
     }
 
@@ -33,7 +33,11 @@ const Styles = styled.div`
     }
 
     tbody tr:nth-of-type(even) {
-      background-color: #f3f3f3;
+      background-color: #F3F3F3;
+    }
+
+    tbody tr:nth-of-type(odd) {
+      background-color: #FFFFFF;
     }
 
     tbody tr:last-of-type {
