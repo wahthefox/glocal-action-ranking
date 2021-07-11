@@ -26,6 +26,7 @@ const Styles = styled.div`
     thead th,
     td {
       padding: 12px 15px;
+      border-right: 1px solid #dddddd;
     }
 
     tbody tr {
