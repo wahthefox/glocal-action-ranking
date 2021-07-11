@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/glocal-action-ranking/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/glocal-action-ranking/static/js/main.1557efdf.chunk.js",
-    "main.js.map": "/glocal-action-ranking/static/js/main.1557efdf.chunk.js.map",
-    "runtime-main.js": "/glocal-action-ranking/static/js/runtime-main.728fd920.js",
-    "runtime-main.js.map": "/glocal-action-ranking/static/js/runtime-main.728fd920.js.map",
-    "static/js/2.7c4496e7.chunk.js": "/glocal-action-ranking/static/js/2.7c4496e7.chunk.js",
-    "static/js/2.7c4496e7.chunk.js.map": "/glocal-action-ranking/static/js/2.7c4496e7.chunk.js.map",
-    "static/js/3.a2076bb4.chunk.js": "/glocal-action-ranking/static/js/3.a2076bb4.chunk.js",
-    "static/js/3.a2076bb4.chunk.js.map": "/glocal-action-ranking/static/js/3.a2076bb4.chunk.js.map",
-    "index.html": "/glocal-action-ranking/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/glocal-action-ranking/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.7c4496e7.chunk.js.LICENSE.txt": "/glocal-action-ranking/static/js/2.7c4496e7.chunk.js.LICENSE.txt"
+    "main.css": "https://wahthefox.github.io/glocal-action-ranking/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/main.1557efdf.chunk.js",
+    "main.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/main.1557efdf.chunk.js.map",
+    "runtime-main.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/runtime-main.e25bc52c.js",
+    "runtime-main.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/runtime-main.e25bc52c.js.map",
+    "static/js/2.100b485f.chunk.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/2.100b485f.chunk.js",
+    "static/js/2.100b485f.chunk.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/2.100b485f.chunk.js.map",
+    "static/js/3.a2076bb4.chunk.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/3.a2076bb4.chunk.js",
+    "static/js/3.a2076bb4.chunk.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/3.a2076bb4.chunk.js.map",
+    "index.html": "https://wahthefox.github.io/glocal-action-ranking/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://wahthefox.github.io/glocal-action-ranking/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.100b485f.chunk.js.LICENSE.txt": "https://wahthefox.github.io/glocal-action-ranking/static/js/2.100b485f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.728fd920.js",
-    "static/js/2.7c4496e7.chunk.js",
+    "static/js/runtime-main.e25bc52c.js",
+    "static/js/2.100b485f.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.1557efdf.chunk.js"
   ]
