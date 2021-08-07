@@ -1,9 +1,10 @@
-name: Deploy storybook
+name: Publish
 on:
   workflow_dispatch: # This allow manual triggering
   push:
     branches:
       - main
+
 jobs:
   build:
     name: Build 🔧
