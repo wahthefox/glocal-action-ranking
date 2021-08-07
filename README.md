@@ -9,6 +9,8 @@ url: https://wahthefox.github.io/glocal-action-ranking/?env=ENV&campaign_id=CAMP
 | ENV          | prod / test      |
 | CAMPAIGN_ID  | {campaign id}    |
 
+Example:
+
 ```
 <iframe
   src="https://wahthefox.github.io/glocal-action-ranking/?env=test&campaign_id=3ccbaf9d-867d-4a3c-bb75-9c9d815d6472"
