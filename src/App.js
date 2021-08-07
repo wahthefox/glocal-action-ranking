@@ -74,14 +74,6 @@ function App() {
         Header: 'Miles',
         accessor: 'miles',
       },
-      {
-        Header: 'Progress',
-        accessor: d => (
-          <div className="wrapper">
-            {(d.progress * 100).toFixed(2) + '%'}
-          </div>
-        )
-      },
     ],
     []
   )
