@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://wahthefox.github.io/glocal-action-ranking/static/css/main.6dea0f05.chunk.css",
-    "main.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/main.c2dbf9a6.chunk.js",
-    "main.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/main.c2dbf9a6.chunk.js.map",
+    "main.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/main.43be2e09.chunk.js",
+    "main.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/main.43be2e09.chunk.js.map",
     "runtime-main.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/runtime-main.ccbcad54.js",
     "runtime-main.js.map": "https://wahthefox.github.io/glocal-action-ranking/static/js/runtime-main.ccbcad54.js.map",
     "static/js/2.68d22780.chunk.js": "https://wahthefox.github.io/glocal-action-ranking/static/js/2.68d22780.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ccbcad54.js",
     "static/js/2.68d22780.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c2dbf9a6.chunk.js"
+    "static/js/main.43be2e09.chunk.js"
   ]
 }
