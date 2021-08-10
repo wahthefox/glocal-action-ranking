@@ -63,6 +63,14 @@ function App() {
         },
       },
       {
+        Header: 'Username',
+        accessor: d => (
+          <div className="wrapper">
+            {d.user.username}
+          </div>
+        )
+      },
+      {
         Header: 'Name',
         accessor: d => (
           <div className="wrapper">
